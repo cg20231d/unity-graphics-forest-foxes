@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Light Intro.sln"
+    "dotnet.defaultSolution": "unity-graphics-forest-foxes.sln"
 }
